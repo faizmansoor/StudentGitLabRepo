@@ -1,1 +1,1 @@
-this is the readme to Lab Problem Statement 1: Version Control Using Git
+this is the README to Lab Problem Statement 1: Version Control Using Git
